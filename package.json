@@ -1,0 +1,25 @@
+{
+  "name": "DotN",
+  "version": "1.0.0",
+  "description": "Defense of the Net",
+  "main": "src/Server.js",
+  "author": "Elijah Cunningham",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "howler": "^2.2.3",
+    "nodemon": "^2.0.15",
+    "pixi.js": "^6.2.1",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1",
+    "ws": "^8.4.0"
+  },
+  "devDependencies": {
+    "google-closure-compiler": "^20220104.0.0",
+    "webpack-closure-compiler": "^2.1.6",
+    "webpack-dev-server": "^4.7.2"
+  },
+  "scripts": {
+    "server": "nodemon ./src/Server.js"
+  }
+}
