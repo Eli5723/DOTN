@@ -28,7 +28,7 @@ You can input actions for your unit by pressing the "Ability" keys (q w e f)
 
 Pressing the "Stop" key, s, causes your unit to stop performing actions.  
 Left Clicking a position on the ground causes your unit to move to that position.  
-Left Clicking an allied unit causees your unit to follow that allied unit.  
+Left Clicking an allied unit causes your unit to follow that allied unit.  
 Left Clicking an enemy unit causese your unit to begin attacking that unit.  
   
 Inputting an action without holding shift overrides the unit's action queue.  
