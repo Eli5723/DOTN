@@ -21,5 +21,3 @@ npm run server
 npx webpack serve
 ```
 And navigate to localhost:8080
-
-```
